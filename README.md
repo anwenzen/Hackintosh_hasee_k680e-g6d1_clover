@@ -53,4 +53,4 @@
 感谢[爅璃博客](https://www.jianshu.com/u/beb5cf42a058)的详细博客[MAC 10.14 安装教程4-制作安装EFI文件](https://www.jianshu.com/p/2ad57fca5969)  
 感谢[爅璃博客](https://www.jianshu.com/u/beb5cf42a058)的详细博客[MAC 10.14 安装教程10-基于黑果小兵大神EFI文件的修改过程](https://www.jianshu.com/p/81e329c50120)   
 感谢老哥的[K680E(W650KK)安装macOS high sierra](http://luox.pro/2018/05/18/K680E(W650KK)%E5%AE%89%E8%A3%85macOS%20high%20sierra/)模版参考  
-感谢[cewnhai/macOS-for-W650KJ-KK]的模版参考  
+感谢[cewnhai/macOS-for-W650KJ-KK](https://github.com/cewnhai/macOS-for-W650KJ-KK)的模版参考  
