@@ -1,3 +1,5 @@
+# 2019.11.14。换电脑了。这个不完美的EFI仅供大家参考。远景论坛有更好的
+
 # Hackintosh Hasee k680e-g6d1 i5-7400
 我使用的 MacOS 是[【黑果小兵】macOS Mojave 10.14.6 18G87 正式版 with Clover 5050原版镜像\[双EFI双平台终极版\]](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html)  
 这CLOVER是东瓶西凑出来的，我有什问题我也解决不了
